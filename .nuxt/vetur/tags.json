@@ -1,0 +1,116 @@
+{
+  "AboutUs": {
+    "description": "Auto imported from components/Home/AboutUs.vue"
+  },
+  "LazyAboutUs": {
+    "description": "Auto imported from components/Home/AboutUs.vue"
+  },
+  "BookingBox": {
+    "description": "Auto imported from components/Home/BookingBox.vue"
+  },
+  "LazyBookingBox": {
+    "description": "Auto imported from components/Home/BookingBox.vue"
+  },
+  "Offer": {
+    "description": "Auto imported from components/Home/Offer.vue"
+  },
+  "LazyOffer": {
+    "description": "Auto imported from components/Home/Offer.vue"
+  },
+  "OnlineConsultation": {
+    "description": "Auto imported from components/Home/OnlineConsultation.vue"
+  },
+  "LazyOnlineConsultation": {
+    "description": "Auto imported from components/Home/OnlineConsultation.vue"
+  },
+  "OurDoctors": {
+    "description": "Auto imported from components/Home/OurDoctors.vue"
+  },
+  "LazyOurDoctors": {
+    "description": "Auto imported from components/Home/OurDoctors.vue"
+  },
+  "OurServices": {
+    "description": "Auto imported from components/Home/OurServices.vue"
+  },
+  "LazyOurServices": {
+    "description": "Auto imported from components/Home/OurServices.vue"
+  },
+  "PatientStories": {
+    "description": "Auto imported from components/Home/PatientStories.vue"
+  },
+  "LazyPatientStories": {
+    "description": "Auto imported from components/Home/PatientStories.vue"
+  },
+  "Video": {
+    "description": "Auto imported from components/Home/Video.vue"
+  },
+  "LazyVideo": {
+    "description": "Auto imported from components/Home/Video.vue"
+  },
+  "MostViewed": {
+    "description": "Auto imported from components/blog/MostViewed.vue"
+  },
+  "LazyMostViewed": {
+    "description": "Auto imported from components/blog/MostViewed.vue"
+  },
+  "Post": {
+    "description": "Auto imported from components/blog/Post.vue"
+  },
+  "LazyPost": {
+    "description": "Auto imported from components/blog/Post.vue"
+  },
+  "BreadCrumb": {
+    "description": "Auto imported from components/shared/BreadCrumb.vue"
+  },
+  "LazyBreadCrumb": {
+    "description": "Auto imported from components/shared/BreadCrumb.vue"
+  },
+  "Copyright": {
+    "description": "Auto imported from components/shared/Copyright.vue"
+  },
+  "LazyCopyright": {
+    "description": "Auto imported from components/shared/Copyright.vue"
+  },
+  "Doctor": {
+    "description": "Auto imported from components/shared/Doctor.vue"
+  },
+  "LazyDoctor": {
+    "description": "Auto imported from components/shared/Doctor.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/shared/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/shared/Footer.vue"
+  },
+  "GeneralContactUs": {
+    "description": "Auto imported from components/shared/GeneralContactUs.vue"
+  },
+  "LazyGeneralContactUs": {
+    "description": "Auto imported from components/shared/GeneralContactUs.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/shared/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/shared/Header.vue"
+  },
+  "HomeTitle": {
+    "description": "Auto imported from components/shared/HomeTitle.vue"
+  },
+  "LazyHomeTitle": {
+    "description": "Auto imported from components/shared/HomeTitle.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/shared/Menu.vue"
+  },
+  "LazyMenu": {
+    "description": "Auto imported from components/shared/Menu.vue"
+  },
+  "TopPhoto": {
+    "description": "Auto imported from components/shared/TopPhoto.vue"
+  },
+  "LazyTopPhoto": {
+    "description": "Auto imported from components/shared/TopPhoto.vue"
+  }
+}

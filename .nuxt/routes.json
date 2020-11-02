@@ -1,0 +1,198 @@
+[
+  {
+    "name": "about-us___en",
+    "path": "/about-us",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\about-us\\\\index.vue",
+    "chunkName": "pages/about-us/index",
+    "_name": "_38d112cb"
+  },
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_eaecd6ae"
+  },
+  {
+    "name": "blog___en",
+    "path": "/blog",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_cffab5f2"
+  },
+  {
+    "name": "clinics___en",
+    "path": "/clinics",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\clinics.vue",
+    "chunkName": "pages/clinics",
+    "_name": "_7571dc22"
+  },
+  {
+    "name": "contact-us___en",
+    "path": "/contact-us",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\contact-us\\\\index.vue",
+    "chunkName": "pages/contact-us/index",
+    "_name": "_15c3325e"
+  },
+  {
+    "name": "doctors___en",
+    "path": "/doctors",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\doctors\\\\index.vue",
+    "chunkName": "pages/doctors/index",
+    "_name": "_513c6052"
+  },
+  {
+    "name": "quiz___en",
+    "path": "/quiz",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\quiz.vue",
+    "chunkName": "pages/quiz",
+    "_name": "_22756c4e"
+  },
+  {
+    "name": "services___en",
+    "path": "/services",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\services\\\\index.vue",
+    "chunkName": "pages/services/index",
+    "_name": "_9f88c16a"
+  },
+  {
+    "name": "about-us___ar",
+    "path": "/ar/about-us",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\about-us\\\\index.vue",
+    "chunkName": "pages/about-us/index",
+    "_name": "_38d112cb"
+  },
+  {
+    "name": "blog___ar",
+    "path": "/ar/blog",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\blog\\\\index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_cffab5f2"
+  },
+  {
+    "name": "clinics___ar",
+    "path": "/ar/clinics",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\clinics.vue",
+    "chunkName": "pages/clinics",
+    "_name": "_7571dc22"
+  },
+  {
+    "name": "contact-us___ar",
+    "path": "/ar/contact-us",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\contact-us\\\\index.vue",
+    "chunkName": "pages/contact-us/index",
+    "_name": "_15c3325e"
+  },
+  {
+    "name": "doctors___ar",
+    "path": "/ar/doctors",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\doctors\\\\index.vue",
+    "chunkName": "pages/doctors/index",
+    "_name": "_513c6052"
+  },
+  {
+    "name": "quiz___ar",
+    "path": "/ar/quiz",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\quiz.vue",
+    "chunkName": "pages/quiz",
+    "_name": "_22756c4e"
+  },
+  {
+    "name": "services___ar",
+    "path": "/ar/services",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\services\\\\index.vue",
+    "chunkName": "pages/services/index",
+    "_name": "_9f88c16a"
+  },
+  {
+    "name": "blog-category-slug___ar",
+    "path": "/ar/blog/category/:slug?",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\blog\\\\category\\\\_slug.vue",
+    "chunkName": "pages/blog/category/_slug",
+    "_name": "_51cc3f7e"
+  },
+  {
+    "name": "blog-tag-slug___ar",
+    "path": "/ar/blog/tag/:slug?",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\blog\\\\tag\\\\_slug.vue",
+    "chunkName": "pages/blog/tag/_slug",
+    "_name": "_43c34d6a"
+  },
+  {
+    "name": "blog-slug___ar",
+    "path": "/ar/blog/:slug",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_d367f882"
+  },
+  {
+    "name": "doctors-slug___ar",
+    "path": "/ar/doctors/:slug",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\doctors\\\\_slug.vue",
+    "chunkName": "pages/doctors/_slug",
+    "_name": "_54a9a2e2"
+  },
+  {
+    "name": "search-slug___ar",
+    "path": "/ar/search/:slug?",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug",
+    "_name": "_ef73ab8e"
+  },
+  {
+    "name": "service-slug___ar",
+    "path": "/ar/service/:slug?",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\service\\\\_slug.vue",
+    "chunkName": "pages/service/_slug",
+    "_name": "_6e40706e"
+  },
+  {
+    "name": "blog-category-slug___en",
+    "path": "/blog/category/:slug?",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\blog\\\\category\\\\_slug.vue",
+    "chunkName": "pages/blog/category/_slug",
+    "_name": "_51cc3f7e"
+  },
+  {
+    "name": "blog-tag-slug___en",
+    "path": "/blog/tag/:slug?",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\blog\\\\tag\\\\_slug.vue",
+    "chunkName": "pages/blog/tag/_slug",
+    "_name": "_43c34d6a"
+  },
+  {
+    "name": "blog-slug___en",
+    "path": "/blog/:slug",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\blog\\\\_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_d367f882"
+  },
+  {
+    "name": "doctors-slug___en",
+    "path": "/doctors/:slug",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\doctors\\\\_slug.vue",
+    "chunkName": "pages/doctors/_slug",
+    "_name": "_54a9a2e2"
+  },
+  {
+    "name": "search-slug___en",
+    "path": "/search/:slug?",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug",
+    "_name": "_ef73ab8e"
+  },
+  {
+    "name": "service-slug___en",
+    "path": "/service/:slug?",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\service\\\\_slug.vue",
+    "chunkName": "pages/service/_slug",
+    "_name": "_6e40706e"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "D:\\\\Ahmed\\\\WORK\\\\Andalusia\\\\ADC\\\\ADC_Frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_eaecd6ae"
+  }
+]
