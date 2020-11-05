@@ -9,6 +9,7 @@ const _cffab5f2 = () => interopDefault(import('..\\pages\\blog\\index.vue' /* we
 const _7571dc22 = () => interopDefault(import('..\\pages\\clinics.vue' /* webpackChunkName: "pages/clinics" */))
 const _15c3325e = () => interopDefault(import('..\\pages\\contact-us\\index.vue' /* webpackChunkName: "pages/contact-us/index" */))
 const _513c6052 = () => interopDefault(import('..\\pages\\doctors\\index.vue' /* webpackChunkName: "pages/doctors/index" */))
+const _7f86f79c = () => interopDefault(import('..\\pages\\offers\\index.vue' /* webpackChunkName: "pages/offers/index" */))
 const _22756c4e = () => interopDefault(import('..\\pages\\quiz.vue' /* webpackChunkName: "pages/quiz" */))
 const _9f88c16a = () => interopDefault(import('..\\pages\\services\\index.vue' /* webpackChunkName: "pages/services/index" */))
 const _51cc3f7e = () => interopDefault(import('..\\pages\\blog\\category\\_slug.vue' /* webpackChunkName: "pages/blog/category/_slug" */))
@@ -59,6 +60,10 @@ export const routerOptions = {
     component: _513c6052,
     name: "doctors___en"
   }, {
+    path: "/offers",
+    component: _7f86f79c,
+    name: "offers___en"
+  }, {
     path: "/quiz",
     component: _22756c4e,
     name: "quiz___en"
@@ -86,6 +91,10 @@ export const routerOptions = {
     path: "/ar/doctors",
     component: _513c6052,
     name: "doctors___ar"
+  }, {
+    path: "/ar/offers",
+    component: _7f86f79c,
+    name: "offers___ar"
   }, {
     path: "/ar/quiz",
     component: _22756c4e,

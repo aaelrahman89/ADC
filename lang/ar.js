@@ -57,6 +57,17 @@ export default {
     choosedoctor: 'اختر الدكتور',
     SelectDoctor: 'حدد الدكتور'
   },
-  OurBranches: 'فروعنا'
+  OurBranches: 'فروعنا',
+  SearchResultsfor: 'نتائج البحث عن',
+  SearchTitle: 'بحث',
+  offers: {
+    AndalusiaDentalCenters: 'مراكز أندلسية لطب الأسنان',
+    MoreThan30: 'أكثر من 30 عامًا من الخبرة في مجال طب وتجميل الأسنان بجدة',
+    GeneralOffers: 'العروض العامة',
+    of: 'من',
+    results: 'النتائج',
+    TopOffers: 'أفضل العروض',
+    SAR: 'ريال'
+  }
 }
 

@@ -1,7 +1,7 @@
 <template>
     <footer>
       <div class="container">
-          
+
           <!--footer start -->
       <div class="row">
               <div class="col-md-4 map col-6 d-none d-sm-block">
@@ -22,7 +22,7 @@
                           <div class="col-md-2 col-6 d-none d-sm-block">
                  <h5>{{$t('ourServices')}}</h5>
                  <ul class="mt-4 links">
-                     <li v-for="footerService in footerServices" :key="footerService.id"><nuxt-link :to="localePath(`/service/${footerService.slug}`)">{{footerService.name}}</nuxt-link></li>
+                     <li v-for="(footerService, index) in footerServices" :key="footerService.id"><nuxt-link v-if="index < 5" :to="localePath(`/service/${footerService.slug}`)">{{footerService.name}}</nuxt-link></li>
                  </ul>
              </div>
 
@@ -119,8 +119,6 @@ $small: 768px;
   }
    }
    .links{
-       overflow: hidden;
-    height: 200px;
    li{
        margin-bottom: 25px;
        font-weight: bold;
@@ -165,7 +163,7 @@ $small: 768px;
        height: 45px;
        &::placeholder{
           color: #fff;
-          opacity: 0.8; 
+          opacity: 0.8;
        }
    }
    .newsletter{
@@ -213,4 +211,8 @@ position: absolute;
  footer:lang(ar){
      text-align: right;
  }
-</style> 
+ .newsletter-btn:lang(ar){
+    left: 39px;
+    right: auto !important;
+ }
+</style>

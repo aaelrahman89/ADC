@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-md-2"></div>
                     <div class="col-md-5">
-                        Search
+                        {{$t('SearchTitle')}}
                     </div>
                 </div>
             </div>
@@ -15,7 +15,7 @@
           <div class="row mb-5">
               <div class="col-md-2 d-none d-sm-block"></div>
               <div class="col-md-4">
-                  <h5 class="mb-5">Search Results for <b>( {{$route.params.slug}} )</b></h5>
+                  <h5 class="mb-5">{{$t('SearchResultsfor')}} <b>( {{$route.params.slug}} )</b></h5>
                   <div class="results">
 
                        <!-- Result Start -->
@@ -122,4 +122,21 @@ $small: 768px;
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+html:lang(ar){
+
+.search{
+    text-align: right;
+}
+.result{
+       direction: rtl;
+       margin-right: 20px;
+       margin-left: auto;
+}
+.results{
+        direction: ltr;
+}
+
+}
+
 </style>

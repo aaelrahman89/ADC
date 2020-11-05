@@ -10,7 +10,7 @@
               <p>Ed ut perspiciatis unde omnis iste natus error sitoluptatem ac Doloremque</p>
               <div class="hold-buttons">
                 <nuxt-link :to="localePath('/doctor')" class="btn-main btn-green">book now</nuxt-link>
-                <nuxt-link :to="localePath('/doctor')" class="btn-main"><span></span>see more</nuxt-link>
+                <nuxt-link :to="localePath('/offers')" class="btn-main"><span></span>see more</nuxt-link>
               </div>
             </div>
           </div>

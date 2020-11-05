@@ -1,4 +1,16 @@
 {
+  "MostViewed": {
+    "description": "Auto imported from components/blog/MostViewed.vue"
+  },
+  "LazyMostViewed": {
+    "description": "Auto imported from components/blog/MostViewed.vue"
+  },
+  "Post": {
+    "description": "Auto imported from components/blog/Post.vue"
+  },
+  "LazyPost": {
+    "description": "Auto imported from components/blog/Post.vue"
+  },
   "AboutUs": {
     "description": "Auto imported from components/Home/AboutUs.vue"
   },
@@ -47,17 +59,23 @@
   "LazyVideo": {
     "description": "Auto imported from components/Home/Video.vue"
   },
-  "MostViewed": {
-    "description": "Auto imported from components/blog/MostViewed.vue"
+  "GeneralOffer": {
+    "description": "Auto imported from components/offers/GeneralOffer.vue"
   },
-  "LazyMostViewed": {
-    "description": "Auto imported from components/blog/MostViewed.vue"
+  "LazyGeneralOffer": {
+    "description": "Auto imported from components/offers/GeneralOffer.vue"
   },
-  "Post": {
-    "description": "Auto imported from components/blog/Post.vue"
+  "OffersBookNow": {
+    "description": "Auto imported from components/offers/OffersBookNow.vue"
   },
-  "LazyPost": {
-    "description": "Auto imported from components/blog/Post.vue"
+  "LazyOffersBookNow": {
+    "description": "Auto imported from components/offers/OffersBookNow.vue"
+  },
+  "TopOffer": {
+    "description": "Auto imported from components/offers/TopOffer.vue"
+  },
+  "LazyTopOffer": {
+    "description": "Auto imported from components/offers/TopOffer.vue"
   },
   "BreadCrumb": {
     "description": "Auto imported from components/shared/BreadCrumb.vue"

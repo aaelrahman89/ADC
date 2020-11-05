@@ -57,5 +57,16 @@ export default {
     choosedoctor: 'choose doctor',
     SelectDoctor: 'Select Doctor'
   },
-  OurBranches: 'Our Branches'
+  OurBranches: 'Our Branches',
+  SearchResultsfor: 'Search Results for',
+  SearchTitle: 'Search',
+  offers: {
+    AndalusiaDentalCenters: 'Andalusia Dental Centers',
+    MoreThan30: 'More than 30 years of experience in medicine and cosmetic dentistry in Jeddah',
+    GeneralOffers: 'General Offers',
+    of: 'of',
+    results: 'results',
+    TopOffers: 'Top Offers',
+    SAR: 'SAR'
+  }
 }
